@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ig_07c2dcb8aa5be767016a2303c62be48191be91a17176c741d4" src="https://github.com/user-attachments/assets/5334d8bc-2d25-407c-9362-fd6ae5b21a88" />
+
+
 # StockDivs
 
 StockDivs is a Laravel + React application for tracking stock quotes, portfolio performance, dividends, watchlists, alerts, and currency conversion.
